@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 90,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
