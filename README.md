@@ -9,10 +9,8 @@
 This project was made with with the famous Front-End framework **React Js**  
 _for more information:_ [React Official Doc Page](https://reactjs.org) and CLI tool: [Create React App](https://github.com/facebook/create-react-app)
 
-The **Express** backend framework is used for auth and CRUD operations. https://expressjs.com  
-**MongoDb** keeps the user data(https://www.mongodb.com) and **JSON Web Tokens** for authentication(https://jwt.io).
-
-<br/>
+The **Express JS** backend framework(https://expressjs.com) is used for auth and CRUD operations.  
+**MongoDb** keeps the user data(https://www.mongodb.com) and **JSON Web Tokens** for authentication(https://jwt.io)
 <br/>
 a live demo lies here: [Contact-Keeper](https://peaceful-basin-77750.herokuapp.com/register) App
 
